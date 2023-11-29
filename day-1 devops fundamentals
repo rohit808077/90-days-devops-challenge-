@@ -1,0 +1,34 @@
+#Day 1
+
+#What is DevOps?
+
+DevOps, a combination of ‘development and operations’, is a mix of practices, tools and cultural philosophies that enable an organization to quickly deliver applications and services. It also helps products go from the drawing board to market at a faster pace than traditional software development because operations and development engineers work closely together in the entire lifecycle, from design through the development process to production support. In fact, operations staff and developers often use many of the same tools in tandem making the work go that much smoother and faster.
+
+DevOps encompasses the culture and people within an organization, aiming to improve collaboration between the development team and operations. The merging of the two terms is representative of the merging of work of these two previously disparate teams. “Dev” in DevOps refers to developers in particular, but it also means everyone involved in developing the software including QA, Product teams, etc. “Ops” refers to the systems engineers, system administrators, operations staff, release engineers, DBAs, network engineers, security professionals, and other subdisciplines and job titles. Ops are those that generally are charged with the deployment of the software that the developers created. Before DevOps, the two teams worked in very separate environments, one waiting for the other to complete their task. Now, with DevOps, the two teams work more in tandem, catching any flaws and being more agile in changing design direction.
+
+Generally, DevOps represents a change in the culture of IT from one of separateness to one of working as a team. It’s about creating rapid service delivery using Agile, lean practices in a system-oriented approach. DevOps also aims to use technology, especially automation tools, to leverage highly programmable and dynamic infrastructure.
+
+Etymologically, the term DevOps was created by Patrick Debois in 2009, who was one of the system’s strongest proponents. The term brings together ‘development’ and ‘operations’, which is the baseline for the understanding of DevOps. It is a broad term that encompasses processes, cultures, and mindsets that work towards shortening the life cycle of software development, with fast feedback loops that are employed to deliver features, fixes, and updates rapidly and on a regular basis.
+
+#What Was the Need for DevOps?
+Developers and system administrators are two essential departments that businesses need to work in tandem to ensure smooth functioning of the organization. The demand from any business will include new features, services, and revenue streams that can be added at a rapid pace. All this has to be executed on a reliable infrastructure. Developers can send out new software all the time, but its implementation, handled by the operations department, often cannot be rapid fire for the sake of stability. And this is where developers and operations tend to be at odds.
+
+A company is working on artificial intelligence (AI) powered cleaning robots. There is a team of developers working on the code, and a team in operations working on the robot and its infrastructure in real world environments.
+
+The developers have spent close to a year developing a code where the robot will recognize its owners, take commands from smart devices, and have a range of cleaning abilities. The operations team has created the robot that will execute all of this.
+
+Now when the two teams merge their work, it turns out that the robot has several flaws—it takes instructions from only one voice; it can’t get to higher shelves for cleaning and other functional flaws. The two teams are now frustrated because months of work have not given them a viable product, even though in each of their test environments everything seemed perfect. The timeline to go to market effectively increases.
+
+As technology advances, the pitfalls of having operations and software development work in isolated silos becomes more apparent. DevOps came about to try and resolve this issue by bringing everyone related to development and operations on to a single, well automated workflow. This workflow is created to focus sharply on ensuring new software meets all necessary operations requirements for infrastructure stability.
+
+It works on a common set of principles that cuts across all traditional boundaries and roles. These principles are, among others:
+
+Setting priorities and end results along with the fundamental beliefs needed to achieve them.
+
+Collaboration both inter and intra-teams for problem solving.
+
+Automation of repetitive processes to enable more man-hours for higher-level work.
+
+Integration of feedback into work with parameters to measure anything going into production.
+
+Sharing of data with all necessary individuals and across skill sets and specialized knowledge to achieve the task.
